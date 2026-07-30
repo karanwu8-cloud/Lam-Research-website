@@ -1,0 +1,6 @@
+{
+  "name": "Silicon-Stack",
+  "description": "A single-file, interactive React prototype demonstrating the semiconductor manufacturing process using a CSS-based 3D scrollytelling experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
